@@ -1,3 +1,3 @@
 # Pyspark_Notebooks
-- Basics
+- [Basics](https://github.com/rutvij26/Pyspark_Notebooks/blob/main/basic.ipynb)
 - SQL & Dataframe
